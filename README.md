@@ -13,4 +13,4 @@ Note that starter HTML and CSS was provided, along with a JavaScript function or
 ## Website
 https://cammeer.github.io/Password-Generator/
 
-![Password Generator screenshot](passgen.jpeg)
+![Password Gen screenshot](./assets/images/portfolio_screenshot.jpeg "Password generator")
